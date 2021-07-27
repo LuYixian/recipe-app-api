@@ -1,4 +1,7 @@
-Django>=3.2.5,<3.3.0
-djangorestframework>=3.12.4,<3.13.0
-
-flake8>=3.9.2,<3.10.0
+Django>=3.2.5,<4.0
+djangorestframework>=3.12.4
+djangorestframework-simplejwt>=4.7.2
+djoser>=2.1.0
+django-cors-headers>=3.7.0
+psycopg2>=2.9.1
+flake8>=3.9.2
